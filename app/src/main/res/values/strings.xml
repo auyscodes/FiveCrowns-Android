@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FiveCrowns</string>
+    <string name="load_game">Load Game</string>
+    <string name="start_new">Start New</string>
+    <string name="select_files">Select File</string>
+    <string name="pick">Pick</string>
+    <string name="discard_pile">Discard Pile</string>
+    <string name="draw_pile">Draw Pile</string>
+    <string name="player_hand">Player Hand</string>
+    <string name="player_score">Human Score: 0</string>
+    <string name="computer_player">Computer Player</string>
+    <string name="computer_score_0">Computer Score: 0</string>
+    <string name="round_no">Round No: 1</string>
+    <string name="show_log_help">Show Log/Help</string>
+    <string name="save_game">Save Game</string>
+    <string name="file_name">File Name</string>
+    <string name="game_ended">Game Ended</string>
+    <string name="winner">Winner:</string>
+    <string name="play_again">Play Again</string>
+    <string name="exit_game">Exit Game</string>
+    <string name="human_score">Human Score:</string>
+    <string name="computer_score">Computer Score:</string>
+    <string name="show_log">Show Log</string>
+</resources>
